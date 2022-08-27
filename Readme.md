@@ -1,1 +1,1 @@
-# ecomp
+[ER Diagram](ER Diagram.jpg)
