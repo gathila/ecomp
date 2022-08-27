@@ -1,8 +1,6 @@
 package com.xyz.ecomp.domain.product;
 
-import com.xyz.ecomp.domain.Audit;
-
-public class ProductTag extends Audit {
+public class ProductTag {
 
 	private long id;
 	

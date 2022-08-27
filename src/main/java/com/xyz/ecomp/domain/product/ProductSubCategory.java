@@ -2,9 +2,7 @@ package com.xyz.ecomp.domain.product;
 
 import java.util.Set;
 
-import com.xyz.ecomp.domain.Audit;
-
-public class ProductSubCategory extends Audit {
+public class ProductSubCategory {
 
 	private Long id;
 	

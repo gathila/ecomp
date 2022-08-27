@@ -2,10 +2,8 @@ package com.xyz.ecomp.domain.product;
 
 import java.util.Set;
 
-import com.xyz.ecomp.domain.Audit;
 
-
-public class Product extends Audit {
+public class Product {
 
 	private long id;
 	

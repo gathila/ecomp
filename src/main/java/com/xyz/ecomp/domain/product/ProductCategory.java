@@ -1,8 +1,6 @@
 package com.xyz.ecomp.domain.product;
 
-import com.xyz.ecomp.domain.Audit;
-
-public class ProductCategory extends Audit {
+public class ProductCategory {
 
 	private Long id;
 	
